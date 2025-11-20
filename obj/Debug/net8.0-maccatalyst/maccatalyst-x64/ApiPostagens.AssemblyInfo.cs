@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiPostagens")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+429d6e5b2831a8943e2871611f71fafea72dcca7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8ad354a3fa259eff6c9e0c812f4f5efec773b652")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiPostagens")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiPostagens")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
